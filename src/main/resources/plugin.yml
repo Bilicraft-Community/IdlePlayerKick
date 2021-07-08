@@ -1,0 +1,7 @@
+name: IdlePlayerKick
+version: ${project.version}
+main: com.bilicraft.idleplayerkick.IdlePlayerKick
+api-version: 1.17
+description: 在服务器满人时踢出挂机玩家
+depend:
+  - Essentials
